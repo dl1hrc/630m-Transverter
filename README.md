@@ -8,5 +8,6 @@ References:
 
 Params:
 - Input frequency : 3.544 - 3.551MHz
+- Input PWR       : 1W - 5W
 - Output frequency: 472 - 479kHz
-- PWR             : 15W (12V) ... 25W (24V)
+- Output PWR      : 15W (12V) ... 25W (24V)
